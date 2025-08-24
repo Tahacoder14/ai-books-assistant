@@ -30,6 +30,5 @@ This project leverages a modern stack of powerful technologies:
 *   **AI Model:** [Google Gemini API](https://ai.google.dev/)
 *   **Voice Synthesis:** [gTTS (Google Text-to-Speech)](https://pypi.org/project/gTTS/)
 *   **Database:** [SQLite](https://www.sqlite.org/index.html)
-*   **Image Fetching:** [Google Books API](https://developers.google.com/books)
 
 ---
