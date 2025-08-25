@@ -91,7 +91,7 @@ load_css()
 # --- 5. Stylish Sidebar ---
 with st.sidebar:
     st.markdown('<div class="logo-container">', unsafe_allow_html=True)
-    st.image(LOGO_PATH,width=10,use_container_width=True)
+    st.image(LOGO_PATH,width=300)
     st.markdown('</div>', unsafe_allow_html=True)
     st.markdown('<div class="sidebar-title">AI Book\'s<br>Assistant</div>', unsafe_allow_html=True)
     st.divider()
